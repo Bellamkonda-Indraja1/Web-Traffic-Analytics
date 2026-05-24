@@ -1,2 +1,15 @@
-# Web-Traffic-Analytics
-A beginner-friendly web traffic analytics project using Python, Pandas, and Matplotlib to analyze website user behavior and page performance.
+# Web Traffic Analytics
+
+This project analyzes website traffic and user behavior.
+
+Features:
+- Website traffic analysis
+- Page performance evaluation
+- Bounce rate analysis
+- Data visualization
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
